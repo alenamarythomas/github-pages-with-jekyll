@@ -1,5 +1,5 @@
-theme: minima
-title: ALENA THOMAS
+theme: midnight
+title: Alena's Amazing Website
 author: Alena Thomas
 email: amthomas@ebnet.org
 description: > # this means to ignore newlines until "baseurl:"
@@ -8,5 +8,6 @@ description: > # this means to ignore newlines until "baseurl:"
 # social links
 instagram_username: alena.mary.thomas
 github_username: alenamarythomas
+snapchat_username: alenamaryy
 
 show_excerpts: true # set to false to remove excerpts on the homepage
