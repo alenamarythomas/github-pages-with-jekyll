@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "ALENA THOMAS"
 ---
 
-I'm glad you are here. I plan to talk about ...
+This is an online portfolio of Alena Thomas.
