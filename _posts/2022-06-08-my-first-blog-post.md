@@ -1,1 +1,4 @@
-school is easy, but then it gets really hard as you grow older! 
+---
+title: "School"
+date: 2022-06-08
+---
