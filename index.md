@@ -3,4 +3,6 @@ title: "Alena's Awesome Website"
 ---
 
 This is an online portfolio of Alena Thomas.
-![image](https://user-images.githubusercontent.com/107150052/172910465-7e5fbbc2-801b-4812-bad0-d9867593f0a4.png)
+
+
+![IMG_0424](https://user-images.githubusercontent.com/107150052/172911007-e965b94a-ecba-4f59-b9d1-ff61d4969bb1.jpg)
